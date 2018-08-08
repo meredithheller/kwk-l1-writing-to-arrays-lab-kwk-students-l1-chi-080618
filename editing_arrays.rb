@@ -19,4 +19,4 @@ def add_colors
   return RAINBOW_COLORS
 end
 
-puts add_colors
+# puts add_colors
